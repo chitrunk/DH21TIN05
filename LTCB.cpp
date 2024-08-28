@@ -19,9 +19,9 @@ int main(){
 		{
 			ans++;
 		}
-		printf("chan : %d\n",ans);
+		
 	}
-	
+	printf("chan : %d\n",ans);
 }
               
                            
